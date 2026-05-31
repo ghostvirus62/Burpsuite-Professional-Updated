@@ -10,7 +10,7 @@ git clone https://github.com/ghostvirus62/Burpsuite-Professional-Updated.git
 cd Burpsuite-Professional-Updated || { echo "[-] Failed to cd into repo"; exit 1; }
 
 # Set Burp Suite version
-version="2025.8.1"  
+version="2026.4.3"  
 jar_url="https://portswigger-cdn.net/burp/releases/download?product=pro&version=$version&type=Jar"
 jar_output="burpsuite_pro_v$version.jar"
 
